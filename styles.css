@@ -1,0 +1,17 @@
+
+h1 {
+    color: blue
+}
+
+p {
+    color: black font-weight : bold;
+    margin-left: 1%;
+    margin-right: auto;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding: 0;
+}
+
+p#p_disappear {
+    color: blue;
+}
